@@ -3,6 +3,8 @@ This is a simple node js microservice project
 for run go into /gateway
 
 > npm i
+
+
 > npm run start
 
 here in gateway is working on port 8000
